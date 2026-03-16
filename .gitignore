@@ -6,6 +6,5 @@ __pycache__/
 mlruns/
 checkpoints/
 data/
-plots/
 *.egg-info/
 .DS_Store
